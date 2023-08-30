@@ -1,0 +1,40 @@
+.hero {
+	height: 410px;
+	width: 410px;
+	background-image: url(img/merry.jpg);
+	background-size: cover;
+	background-position: 0 -90px;
+	margin: 100px auto;
+	position: relative;
+}
+	
+.bingkai {
+	width: 500px;
+	height: 500px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	text-indent: 9999px;
+	left: -40px;
+	top: -40px;
+	position: absolute;
+	border-radius: 20px;
+}
+
+
+.satu {
+	font: 16px/28px arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.dua {
+	font: 16px/28px arial, sans-serif;
+	text-align: justify;
+	text-indent: 20px;
+}
+
+.tiga {
+	font: 16px/28px arial, sans-serif;
+	text-align: justify;
+	font-weight: bold;
+}
